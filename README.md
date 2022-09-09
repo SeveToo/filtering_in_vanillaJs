@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-<h1 align="center">Filtrowanie</h1>
+<h1 align="center">Div Filtering</h1>
   <a target="_blank" href="https://sevetoo.github.io/filtering_in_vanillaJs/">
   <img src="./preview.png" alt="Filtering in vanilla JavaScript" />
   </a>
